@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Financing Service - Pronoy Dash</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f9;
+      color: #333;
+    }
+    header {
+      background-color: #007BFF;
+      color: white;
+      padding: 20px 0;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+    }
+    nav {
+      text-align: center;
+      padding: 10px;
+      background-color: #0056b3;
+    }
+    nav a {
+      color: white;
+      text-decoration: none;
+      margin: 0 15px;
+      font-size: 18px;
+    }
+    nav a:hover {
+      text-decoration: underline;
+    }
+    .services {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      margin: 20px 0;
+    }
+    .service {
+      background: white;
+      margin: 15px;
+      padding: 20px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      border-radius: 8px;
+      width: 300px;
+      text-align: center;
+    }
+    footer {
+      background-color: #333;
+      color: white;
+      text-align: center;
+      padding: 10px 0;
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Financing Service</h1>
+    <p>Welcome to Pronoy Dash's Freelancing Services</p>
+  </header>
+  <nav>
+    <a href="#services">Services</a>
+    <a href="#contact">Contact</a>
+  </nav>
+  <section id="services" class="services">
+    <div class="service">
+      <h2>Data Entry</h2>
+      <p>Accurate and efficient data entry services.</p>
+    </div>
+    <div class="service">
+      <h2>Copy Paste</h2>
+      <p>Quick and reliable copy-paste tasks.</p>
+    </div>
+    <div class="service">
+      <h2>Logo Design</h2>
+      <p>Custom logo designs for your brand.</p>
+    </div>
+    <div class="service">
+      <h2>T-Shirt Design</h2>
+      <p>Creative T-shirt designs tailored for you.</p>
+    </div>
+    <div class="service">
+      <h2>Typing</h2>
+      <p>Fast and accurate typing services.</p>
+    </div>
+    <div class="service">
+      <h2>Translation</h2>
+      <p>Translation in all major languages.</p>
+    </div>
+    <div class="service">
+      <h2>MS Word & Excel</h2>
+      <p>Expert services in Microsoft Word and Excel.</p>
+    </div>
+    <div class="service">
+      <h2>Website Browsing</h2>
+      <p>Expert-level website browsing services.</p>
+    </div>
+  </section>
+  <footer>
+    <p>&copy; 2024 Financing Service. Created by Pronoy Dash.</p>
+  </footer>
+</body>
+</html>
